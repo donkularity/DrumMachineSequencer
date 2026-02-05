@@ -1,2 +1,2 @@
-# DrumMachineSequencer
-Drum Machine Sequencer project for NEA
+# About my DrumMachineSequencer project
+This is the project.
