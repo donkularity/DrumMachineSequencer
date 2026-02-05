@@ -1,0 +1,86 @@
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\hihat.wav
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\kick.wav
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\snare.wav
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.exe
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.deps.json
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.runtimeconfig.json
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.pdb
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.AssemblyReference.cache
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.Form1.resources
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.GenerateResource.cache
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfoInputs.cache
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfo.cs
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CoreCompileInputs.cache
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CopyComplete
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\refint\DrumMachineSequencer.dll
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.pdb
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.genruntimeconfig.cache
+C:\Users\assas\OneDrive\Desktop\Drum Machine NEA\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\ref\DrumMachineSequencer.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\hihat.wav
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\kick.wav
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\snare.wav
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.exe
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.deps.json
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.runtimeconfig.json
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.pdb
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Core.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.AssemblyReference.cache
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.Form1.resources
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.GenerateResource.cache
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.GeneratedMSBuildEditorConfig.editorconfig
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfoInputs.cache
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfo.cs
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CoreCompileInputs.cache
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMach.F7D36A60.Up2Date
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\refint\DrumMachineSequencer.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.pdb
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.genruntimeconfig.cache
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\ref\DrumMachineSequencer.dll
+E:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\bin\Debug\net6.0-windows\Samples\hihat.wav
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.exe
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\hihat.wav
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\kick.wav
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\Samples\snare.wav
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\bin\Debug\net6.0-windows\Samples\hihat.wav
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.deps.json
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.runtimeconfig.json
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\DrumMachineSequencer.pdb
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.AssemblyReference.cache
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.Form1.resources
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.GenerateResource.cache
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.GeneratedMSBuildEditorConfig.editorconfig
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfoInputs.cache
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfo.cs
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CoreCompileInputs.cache
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CopyComplete
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\refint\DrumMachineSequencer.dll
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.pdb
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\DrumMachineSequencer.genruntimeconfig.cache
+D:\booty hole\DrumMachineSequencer\DrumMachineSequencer\obj\Debug\net6.0-windows\ref\DrumMachineSequencer.dll

@@ -1,0 +1,83 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0-windows\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0-windows\DrumMachineSequencer.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\DrumMachineSequencer.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\DrumMachineSequencer.runtimeconfig.json" />
+    <None Include="bin\Debug\net6.0-windows\Samples\hihat.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="bin\Debug\net6.0-windows\Samples\kick.wav" />
+    <Content Include="bin\Debug\net6.0-windows\Samples\snare.wav" />
+    <Content Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0-windows\DrumMachineSequencer.designer.deps.json" />
+    <Content Include="obj\Debug\net6.0-windows\DrumMachineSequencer.designer.runtimeconfig.json" />
+    <Content Include="obj\DrumMachineSequencer.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Samples\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\DrumMachineSequencer.dll" />
+    <None Include="bin\Debug\net6.0-windows\DrumMachineSequencer.exe" />
+    <None Include="bin\Debug\net6.0-windows\DrumMachineSequencer.pdb" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.Asio.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.Core.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.Midi.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.Wasapi.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.WinForms.dll" />
+    <None Include="bin\Debug\net6.0-windows\NAudio.WinMM.dll" />
+    <None Include="obj\Debug\net6.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.assets.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CopyComplete" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.dll" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.Form1.resources" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0-windows\DrumMachineSequencer.pdb" />
+    <None Include="obj\Debug\net6.0-windows\refint\DrumMachineSequencer.dll" />
+    <None Include="obj\Debug\net6.0-windows\ref\DrumMachineSequencer.dll" />
+    <None Include="obj\DrumMachineSequencer.csproj.nuget.g.props" />
+    <None Include="obj\DrumMachineSequencer.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Samples\hihat.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Samples\kick.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Samples\snare.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
